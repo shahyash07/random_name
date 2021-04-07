@@ -3,10 +3,10 @@ import streamlit as st
 import numpy as np
 import random
 import pandas as pd
-name =['yash','hiba','Robbie','Ganesh']
+name = ['Alex','Anton','Louise','Amandeep','Brenda','Christine','Ganesh','Dmytry','Irakli','Jason','Rami','Steve','Yuliya','Robbie', 'Emma', 'Tina', 'Seel'] 
 
 def run():
-  name =['yash','hiba','Robbie','Ganesh']
+  name = ['Alex','Anton','Louise','Amandeep','Brenda','Christine','Ganesh','Dmytry','Irakli','Jason','Rami','Steve','Yuliya','Robbie', 'Emma', 'Tina', 'Seel'] 
   from PIL import Image
   image = Image.open('logo.PNG')
   image2 = Image.open('logo3.jpg')
